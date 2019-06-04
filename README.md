@@ -1,6 +1,6 @@
 # Daily Coding Problem
 
-So [Daily Coding Problem](https://www.dailycodingproblem.com/) is a webiste which provides with daily coding problems to solve. The problems ranges from Easy to Advanced.
+So [Daily Coding Problem](https://www.dailycodingproblem.com/) is a website which provides with daily coding problems to solve. The problems ranges from Easy to Advanced.
 
 I am a newcomer to this Daily Coding Problem. So I created this repo to keep track of all the codes.
 
